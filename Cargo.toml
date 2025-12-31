@@ -1,0 +1,7 @@
+[package]
+name = "tvmc-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+calamine = "0.32.0"
